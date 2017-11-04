@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/media/raymond/RTEJANO/RRT/Steal Deal/practice/Ionic/MyProjectIonic2/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.3.0/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f203d85dd491b4f7d1c156502990f87222735bee">
+        <dex dex="/media/raymond/RTEJANO/RRT/Steal Deal/practice/Ionic/MyProjectIonic2/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-6.3.0-debug_315ee5f1f912453de4a89bf226d1f01f3c015a24.jar" />
+    </item>
+
+</items>

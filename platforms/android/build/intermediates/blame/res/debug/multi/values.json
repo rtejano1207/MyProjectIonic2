@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "/media/raymond/RTEJANO/RRT/Steal Deal/practice/Ionic/MyProjectIonic2/platforms/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/media/raymond/RTEJANO/RRT/Steal Deal/practice/Ionic/MyProjectIonic2/platforms/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 63,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 42,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/media/raymond/RTEJANO/RRT/Steal Deal/practice/Ionic/MyProjectIonic2/platforms/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 49,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "/media/raymond/RTEJANO/RRT/Steal Deal/practice/Ionic/MyProjectIonic2/platforms/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 49,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 57,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "/media/raymond/RTEJANO/RRT/Steal Deal/practice/Ionic/MyProjectIonic2/platforms/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 57,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 48,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "/media/raymond/RTEJANO/RRT/Steal Deal/practice/Ionic/MyProjectIonic2/platforms/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 48,
+                        "endOffset": 501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 68,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "/media/raymond/RTEJANO/RRT/Steal Deal/practice/Ionic/MyProjectIonic2/platforms/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 68,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 58,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "/media/raymond/RTEJANO/RRT/Steal Deal/practice/Ionic/MyProjectIonic2/platforms/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 58,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 58,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "/media/raymond/RTEJANO/RRT/Steal Deal/practice/Ionic/MyProjectIonic2/platforms/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 58,
+                        "endOffset": 152
+                    }
+                }
+            }
+        ]
+    }
+]
